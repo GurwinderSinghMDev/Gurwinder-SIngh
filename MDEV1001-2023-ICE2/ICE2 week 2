@@ -1,0 +1,28 @@
+INSERT INTO favmovies (
+    movieID,
+    title,
+    studio,
+    genres,
+    director,
+    writers,
+    actors,
+    year,
+    lenght,
+    shortDescription,
+    mparating,
+    criticsRating
+  )
+VALUES (
+    2,
+    'The matrix',
+    'Warner Bros Pictures',
+    'Action, Sci-Fi',
+    'Lana Wachowski, Lilly Wachowski',
+    'Lana Wachowski, LIlly WAchowski',
+    'Kenau Reaves, Laurance Fishburne, Carrie-Anne Moss',
+    1999,
+    136,
+    'A great movie',
+    'R',
+    '8.7'
+  );
